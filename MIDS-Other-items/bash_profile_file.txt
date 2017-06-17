@@ -1,0 +1,23 @@
+
+# added by Anaconda2 2.4.1 installer
+#export PATH="//anaconda/bin:$PATH"
+#export PYTHONPATH="/Users/uun466/anaconda/envs/python27/bin:$PATH"
+#export PATH=$PATH:/Users/uun466/Desktop/Data Science Masters/Exploring and Analyzing Data/Lab 1/Lab1/phantomjs-2.1.1-macosx/bin:$PATH"
+
+export PATH=//anaconda/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/TeX/texbin:/Users/uun466/Downloads/spark-1.5.1-bin-hadoop2.6/bin
+export PYSPARK_DRIVER_PYTHON=ipython
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook' pyspark
+export PYTHONIOENCODING=UTF-8
+
+# added by Anaconda3 4.1.1 installer
+#export PATH="/Users/uun466/anaconda/bin:$PATH"
+#export PATH="/Users/uun466/anaconda/bin:$PATH"
+source proxies.sh
+#export PATH="/Users/uun466/Desktop/Data Science Masters/W205 - Storing and Retrieving Data/Spark/spark-1.6.2-bin-hadoop2.6/bin"
+#export PYSPARK_DRIVER_PYTHON=jupyter
+#export PYSPARK_DRIVER_PYTHON_OPTS='notebook' pyspark
+
+#export SPARK_HOME="/Users/uun466/Desktop/spark-1.6.2-bin-hadoop2.6"
+#export PYTHONPATH=$SPARK_HOME/python:$SPARK_HOME/python/build:$PYTHONPATH
+#export PYSPARK_DRIVER_PYTHON=jupyter
+#export PYSPARK_DRIVER_PYTHON_OPTS='notebook' pyspark
